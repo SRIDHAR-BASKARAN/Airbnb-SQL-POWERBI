@@ -3,18 +3,21 @@
 Discover unique accommodations and unforgettable experiences around the world.
 
 ABOUT DATASET
-  Data contains 50 Columns, 7581 Rows.
+  
+ Data contains 50 Columns, 7581 Rows.
  
-  Data Source GitHub repository
+ Data Source GitHub repository
  
-  Data Contains Travelers Details, Host Details, Accommodation details, Review.
+ Data Contains Travelers Details, Host Details, Accommodation details, Review.
 
 Data Transformation, Data Cleaning in SQL 
-  Data Visualization Power BI
+  
+ Data Visualization Power BI
  
-  Data Cleaning are removed unwanted Columns, Change Column name, Change Date format, Remove duplicate details.
+ Data Cleaning are removed unwanted Columns, Change Column name, Change Date format, Remove duplicate details.
 
-Data Analyzing 
+DATA ANALYSING
+
  Total Availability in 30, 60, 90, 365 days.
  
  Analyze which Room type most of visitors use.
